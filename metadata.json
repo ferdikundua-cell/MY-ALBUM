@@ -1,0 +1,6 @@
+{
+  "name": "My Album",
+  "description": "A premium modern offline music player web app with a dark glassmorphic UI, local file scanner, playlists, sleep timer, equalizer animation, and background playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
